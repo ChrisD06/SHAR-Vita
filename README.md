@@ -1,4 +1,4 @@
 # SHAR-Vita
-An attempt at rewriting the Pure3D engine for Simpsons Hit and Run and porting it over to the Playstation Vita using VitaGL.
+An attempt at porting The Simpsons: Hit & Run to PS Vita.
 
-8/02/21 - After believing what I found was the Pure3D engine used by SHAR, I figured out it was not after trying to solve compilation issues
+Update 8/11/21: Attempting to compile the VPK, when this is released you provide yoru own assets to the game
